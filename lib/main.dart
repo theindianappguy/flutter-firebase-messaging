@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutternotify/home.dart';
+import 'package:flutternotify/views/home.dart';
 
 void main() {
   runApp(MyApp());
